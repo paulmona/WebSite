@@ -9,4 +9,6 @@ deploy:
   bucket: innov8tionfactory.com
   acl: public_read
   region: ca-central-1
-  
+branches:
+  only:
+    master
