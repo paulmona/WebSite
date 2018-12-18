@@ -2662,6 +2662,51 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rcy9rmge4D {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/gears-960x540.jpg");
+}
+.cid-rcy9KpArGq {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rcy9KpArGq .card-img {
+  background-color: #fff;
+}
+.cid-rcy9KpArGq .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rcy9KpArGq h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rcy9KpArGq p {
+  text-align: left;
+}
+.cid-rcy9KpArGq .mbr-text {
+  color: #767676;
+}
+.cid-rcy9KpArGq .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rcy9KpArGq .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rcy9KpArGq .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3054,7 +3099,7 @@ body {
 .cid-rcquEqxlXp {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #465052;
+  background-image: url("../../../assets/images/gears-1-960x540.jpg");
 }
 .cid-rcquEqxlXp h4 {
   text-align: left;
