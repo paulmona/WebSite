@@ -9,8 +9,8 @@ deploy:
   bucket: innov8tionfactory.com
   acl: public_read
   region: ca-central-1
+  provider: azure_web_apps
+  site: "Innov8tionFactory"
   on:
     repo: paulmona/WebSite
-  provider: azure_web_apps
-  site: "https://innov8tionfactory.azurewebsites.net"
-  
+      
