@@ -12,6 +12,4 @@ deploy:
   provider: azure_web_apps
   site: "Innov8tionFactory"
   verbose: true
-    on:
-      all_branches: true
 
