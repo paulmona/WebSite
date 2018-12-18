@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- node
+deploy:
+  provider: s3
+  access_key_id: "AKIAJQVPHI2G26EG3K5Q"
+  secret_access_key:
+    secure: "iAc4zdrgnVbZbljz8l/1KOEZeuNS8ytjRrVzb3w9jOJj5RvDNWpI8c7d6wPJuCy4cHlE8UHOmFCLrGKf96duP9DIxS6TgVsW2KNgNNwVTXHwbRWKKMNGB+FUeky4mnSCB6QEJZ5lkw6uqgsER9t5d5aVKysCVxVvvcqZ7tKtI2/ZWl8xTCwaU1vgdzF80vCNqY1h63tFWm7ye17vLdiWGrrp96n/W+fERxI02L9wBMoMnSvmakms+kdaESfEbHV5yfVJW1iLvvnDdl8cek5jSd5AzulTZz1gRnGAMi9N0uecYQu+52tBGicM9WrVD3E0vWKS7PbekveFXZKj8kvSO5mVHIw+gyeOCKHqRXukw4BS6hhY8SAvtHSaZiZd9G4WiiDMzujgpRColIap6Ku+wnasiwxc7pD84UBWq++T87qerNB7DCC9aWbyA1t6U87TAmdWALTer58damQPGtJqu0ZL1BsSRSEfOgQJTuCjY3gWIsybuxGufB8u22ao7XCEwGmeehPwFAY0kILoYgtiZaS3OaMdhqYjQQ2VFJ/P2goQmm3TzOGkkuK9bGFWoBMs+R+ZPP/BIcdnnp6BSmSJdWBa50gDAphiIAzpcPNRvUlJVS03V3UWygjoI3ag7muoY8M+w6g0PkgGbepmOb9NiZPCBeDDdQGpFaOMSkoDL9I="
+  bucket: "innov8tionfactory.com"
+  acl: public_read
+  region: ca-central-1
