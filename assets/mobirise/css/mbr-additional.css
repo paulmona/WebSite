@@ -2318,6 +2318,9 @@ body {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rcy9KpArGq .card-title {
+  text-align: left;
+}
 .cid-rcymZ9rIxr {
   padding-top: 15px;
   padding-bottom: 30px;
@@ -2924,7 +2927,7 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #cc2952;
   width: 25px;
   height: 25px;
   border-radius: 50%;
