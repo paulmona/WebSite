@@ -11,6 +11,7 @@ deploy:
   region: ca-central-1
   provider: azure_web_apps
   site: "Innov8tionFactory"
+  verbose: true
   on:
     repo: paulmona/WebSite
-      
+    
