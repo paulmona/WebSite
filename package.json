@@ -4,7 +4,7 @@
   "description": "Website for innov8tionfactory.com",
   "main": "index.html",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 0"
+    "test": "echo \\\"Pass: no test specified\\\" && exit 0"
   },
   "repository": {
     "type": "git",
