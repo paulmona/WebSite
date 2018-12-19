@@ -13,6 +13,11 @@ deploy:
   - provider: azure_web_apps
     site: innov8tionfactory
     verbose: true
+  - provider: gcs
+    access_key_id: GOOGHGTP3N5A5Z5XKFMEIHUX
+    secret_access_key:
+      secure: mUwfXWIiZD1EK6zRaisfCPGT23q5ZKIDwkGid1dBthmGmQYTR+E7oyFQckbmETgFfpaaYjP65bHCwx2utvbCLD7qGM/U7wNsdV3rI1/GyfACPygAYuUAVF4GoH+AkqkOupM4Hi0v+vo6CRnlHgubxNWcs+iIZror+8foVeVjmYO8q9z9KKfvrOffsmYnS+dQLy0SI1EF4+SPk3P4BVgKBC4ZtliI7UKJDalDvJZt87efEgAwKrmkDUsel9fy4IitMoctc+oYKk8oYGRqdtefu3pOvhmnk30Ug+QwrxBD3iQunqyHBBYRbC2z5dJkCbwFbCbu/RvMGdQxVjFWZyTC/iTlcYBQ/DqD4RM8R5aivxl4WKnkjGW0kPAxeVo/aWfWQwMWBfndPPIBzu2O+JDPpGadBPNefFUM+X5TJugSmZzT3WaXCKJUWh93dVN9d40lbQ9u06Q7ztA6UfpLSp/loIAd2ZbjwUIWZvP5/vD9aOfY6roAz/ckFtmlXZxBFjl0gnkFnCXAWWpGeBtMVGwoA5dLEfTVg5Rvbdio1ewT9F+5tY5vkYKL0C7JM02DcySwNbHdtW6yX5G8J0RiUdnyiuTLyAj9QTBFAhxAjPv2YgPzfs8B7vKWbOkVFPOkFisJfk49WE/+SyHLR16ghNY26ugeyTYWLQNHV4ykldIVLrU=
+    bucket: gcp-innov8tionfactory
 branches:
   only:
     master
