@@ -9,14 +9,9 @@ deploy:
   bucket: innov8tionfactory.com
   acl: public_read
   region: ca-central-1
-<<<<<<< HEAD
+  provider: script
+  script: git fetch --unshallow && git push https://innov8tionfactoryupload@innov8tionfactory.scm.azurewebsites.net:443/Innov8tionFactory.git HEAD:refs/heads/master
+  verbose: true
 branches:
   only:
     master
-=======
-  provider: script
-  script: git fetch --unshallow && git push https://innov8tionfactoryupload@innov8tionfactory.scm.azurewebsites.net:443/Innov8tionFactory.git HEAD:refs/heads/master
-  on: master
-  verbose: true
-    
->>>>>>> parent of 25357b0... Revert "Update .travis.yml"
