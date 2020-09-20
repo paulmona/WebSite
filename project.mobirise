@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Innov8tionFactory.com",
-    "currentPage": "index-azure.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Innov8tion Factory - Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1830,7 +1830,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#cc2952\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000407\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>STRATEGY</b> - Providing stakeholders a clear and concise plan is the first step in sucess</li><li><b>AGILIE - </b>No waterfall here, we iterate through the project practicing what we preach</li><li><b>INNOVATION</b>&nbsp;- Your customers want more and will go elsewhere, all organizations can benefit from thought leadership to help leverage the power of Cloud and DevOps</li>\n                    <li><b>PRODUCT DEVELOPMENT</b> - Let us provide in depth planning to take your idea to market</li><li><b>CULTURE - </b>Success on your IT transformation relies on training and retaining the correct people. &nbsp;It also requires a structure that has everyone headed in the same direction based on trust.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#cc2952\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000407\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>STRATEGY</b> - Providing stakeholders a clear and concise plan is the first step in sucess</li><li><b>AGILE - </b>No waterfall here, we iterate through the project practicing what we preach</li><li><b>INNOVATION</b>&nbsp;- Your customers want more and will go elsewhere, all organizations can benefit from thought leadership to help leverage the power of Cloud and DevOps</li>\n                    <li><b>PRODUCT DEVELOPMENT</b> - Let us provide in depth planning to take your idea to market</li><li><b>CULTURE - </b>Success on your IT transformation relies on training and retaining the correct people. &nbsp;It also requires a structure that has everyone headed in the same direction based on trust.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rcqvgdN63U",
           "_anchor": "content12-f",
           "_protectedParams": [],
@@ -1927,7 +1927,7 @@
     "404.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
-        "title": "404",
+        "title": "Innov8tion Factory - 404",
         "order": 4
       },
       "components": [
@@ -2464,7 +2464,7 @@
     },
     "index-azure.html": {
       "settings": {
-        "title": "index-azure",
+        "title": "Innov8tion Factory - Azure",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3053,7 +3053,7 @@
     },
     "index-gcs.html": {
       "settings": {
-        "title": "index-gcs",
+        "title": "Innov8tion Factory - GCS",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3642,7 +3642,7 @@
     },
     "index-aws.html": {
       "settings": {
-        "title": "index-aws",
+        "title": "Innov8tion Factory - AWS",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
